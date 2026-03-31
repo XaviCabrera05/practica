@@ -43,8 +43,7 @@ margin-right: auto;
     padding: 15px;
     margin:auto;
     width: 350px;
-    display: flex;
-    flex-direction: column;
+    
 }
 .Formulario label{
     display: block;
